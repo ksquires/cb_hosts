@@ -1,0 +1,7 @@
+DEPENDENCIES
+  hosts
+    path: .
+    metadata: true
+
+GRAPH
+  hosts (0.1.2)
